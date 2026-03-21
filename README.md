@@ -1,53 +1,17 @@
-[![](https://visitcount.itsvg.in/api?id=YashTiwari0-7&icon=0&color=0)](https://visitcount.itsvg.in)
-Hi, I'm Yash Tiwari 👋
+# 💫 About Me:
+Hi, I'm Yash Tiwari 👋<br><br>MERN Stack Developer | Full Stack Web Developer<br><br>I build scalable, real-time web applications using modern technologies like React, Node.js, Express, and MongoDB.<br><br>💫 About Me<br>🔭 Currently building: MERN-based Emergency Hospital Finder with real-time tracking (Google Maps + Socket.io)<br>👯 Open to collaborate on: Full Stack (MERN) and real-time applications<br>🌱 Learning: Advanced backend (authentication, system design, performance optimization)<br>💬 Ask me about: React.js, Node.js, Express, MongoDB, REST APIs<br>🚀 Projects<br>🔹 Emergency Hospital Finder<br>Real-time location tracking using Google Maps<br>Built with MERN + Socket.io<br>Helps users find nearby hospitals in emergencies<br>👉 GitHub: https://github.com/YashTiwari0-7/<br>👉 Live: https://<br>🔹 Real-Time Tracking System<br>Live location tracking using Socket.io<br>Displays user movement dynamically on map<br>Built using MERN stack + WebSockets<br>👉 GitHub: https://github.com/YashTiwari0-7/<br>🔹 Complaint Management System<br>Users can register and track complaints<br>Admin dashboard for managing and resolving issues<br>Built with MERN stack (CRUD + authentication)<br>👉 GitHub: https://github.com/YashTiwari0-7/<br>🛠️ Tech Stack<br>Frontend: React.js, HTML, CSS, Tailwind CSS<br>Backend: Node.js, Express.js<br>Database: MongoDB<br>Tools: Git, GitHub, Postman<br>🌐 Connect with me<br>LinkedIn: https://linkedin.com/in/yashhtiwari<br>Email: yashtiwari.devv@gmail.com
 
-MERN Stack Developer | Full Stack Web Developer
-
-I build scalable, real-time web applications using modern technologies like React, Node.js, Express, and MongoDB.
-
-💫 About Me
-🔭 Currently building: MERN-based Emergency Hospital Finder with real-time tracking (Google Maps + Socket.io)
-👯 Open to collaborate on: Full Stack (MERN) and real-time applications
-🌱 Learning: Advanced backend (authentication, system design, performance optimization)
-💬 Ask me about: React.js, Node.js, Express, MongoDB, REST APIs
-🚀 Projects
-🔹 Emergency Hospital Finder
-Real-time location tracking using Google Maps
-Built with MERN + Socket.io
-Helps users find nearby hospitals in emergencies
-👉 GitHub: https://github.com/YashTiwari0-7/
-👉 Live: https://
-🔹 Real-Time Tracking System
-Live location tracking using Socket.io
-Displays user movement dynamically on map
-Built using MERN stack + WebSockets
-👉 GitHub: https://github.com/YashTiwari0-7/
-🔹 Complaint Management System
-Users can register and track complaints
-Admin dashboard for managing and resolving issues
-Built with MERN stack (CRUD + authentication)
-👉 GitHub: https://github.com/YashTiwari0-7/
-🛠️ Tech Stack
-Frontend: React.js, HTML, CSS, Tailwind CSS
-Backend: Node.js, Express.js
-Database: MongoDB
-Tools: Git, GitHub, Postman
-🌐 Connect with me
-LinkedIn: https://linkedin.com/in/yashhtiwari
-Email: yashtiwari.devv@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__.yyashh__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yashhtiwari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashtiwari.devv@gmail.com) 
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=YashTiwari0-7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=YashTiwari0-7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YashTiwari0-7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-
-
 ---
+[![](https://visitcount.itsvg.in/api?id=YashTiwari0-7&icon=0&color=0)](https://visitcount.itsvg.in)
 
