@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=YashTiwari0-7&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 💫 About Me:
 Hi, I'm Yash Tiwari 👋<br><br>MERN Stack Developer | Full Stack Web Developer<br><br>I build scalable, real-time web applications using modern technologies like React, Node.js, Express, and MongoDB.<br><br>
 🔭 Currently building: MERN-based Emergency Hospital Finder with real-time tracking (Google Maps + Socket.io)<br>
