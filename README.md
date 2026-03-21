@@ -5,12 +5,12 @@ Hi, I'm Yash Tiwari 👋<br><br>MERN Stack Developer | Full Stack Web Developer<
 🌱 Learning: Advanced backend (authentication, system design, performance optimization)<br>
 💬 Ask me about: React.js, Node.js, Express, MongoDB, REST APIs<br>
 ## 🚀 Projects:
-🔹 Emergency Hospital Finder : 
-Real-time location tracking using Google Maps Built with MERN + Socket.io , Helps users find nearby hospitals in emergencies
-🔹 Real-Time Tracking System :
-Live location tracking using Socket.io Displays user movement dynamically on map Built using MERN stack + WebSockets
-🔹 Complaint Management System :
-Users can register and track complaints Admin dashboard for managing and resolving issues Built with MERN stack (CRUD + authentication )
+🔹 Emergency Hospital Finder : <br>
+Real-time location tracking using Google Maps Built with MERN + Socket.io , Helps users find nearby hospitals in emergencies<br>
+🔹 Real-Time Tracking System :<br>
+Live location tracking using Socket.io Displays user movement dynamically on map Built using MERN stack + WebSockets<br>
+🔹 Complaint Management System :<br>
+Users can register and track complaints Admin dashboard for managing and resolving issues Built with MERN stack (CRUD + authentication )<br>
 
 
 
