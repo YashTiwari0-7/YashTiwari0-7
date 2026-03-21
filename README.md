@@ -1,6 +1,40 @@
-# 💫 About Me:
-- 🔭 I’m currently working on: Building a MERN-based Emergency Hospital Finder with real-time location tracking and Google Maps integration  <br><br>- 👯 I’m looking to collaborate on: Full Stack (MERN) projects and real-time applications using Socket.io  <br><br>- 🤝 I’m looking for help with: Scaling backend systems and improving API performance  <br><br>- 🌱 I’m currently learning: Advanced backend development (authentication, system design, performance optimization)  <br><br>- 💬 Ask me about: React.js, Node.js, Express, MongoDB, REST APIs  <br><br>- ⚡ Fun fact: I enjoy turning real-world problems into full-stack applications
+[![](https://visitcount.itsvg.in/api?id=YashTiwari0-7&icon=0&color=0)](https://visitcount.itsvg.in)
+Hi, I'm Yash Tiwari 👋
 
+MERN Stack Developer | Full Stack Web Developer
+
+I build scalable, real-time web applications using modern technologies like React, Node.js, Express, and MongoDB.
+
+💫 About Me
+🔭 Currently building: MERN-based Emergency Hospital Finder with real-time tracking (Google Maps + Socket.io)
+👯 Open to collaborate on: Full Stack (MERN) and real-time applications
+🌱 Learning: Advanced backend (authentication, system design, performance optimization)
+💬 Ask me about: React.js, Node.js, Express, MongoDB, REST APIs
+🚀 Projects
+🔹 Emergency Hospital Finder
+Real-time location tracking using Google Maps
+Built with MERN + Socket.io
+Helps users find nearby hospitals in emergencies
+👉 GitHub: https://github.com/YashTiwari0-7/
+👉 Live: https://
+🔹 Real-Time Tracking System
+Live location tracking using Socket.io
+Displays user movement dynamically on map
+Built using MERN stack + WebSockets
+👉 GitHub: https://github.com/YashTiwari0-7/
+🔹 Complaint Management System
+Users can register and track complaints
+Admin dashboard for managing and resolving issues
+Built with MERN stack (CRUD + authentication)
+👉 GitHub: https://github.com/YashTiwari0-7/
+🛠️ Tech Stack
+Frontend: React.js, HTML, CSS, Tailwind CSS
+Backend: Node.js, Express.js
+Database: MongoDB
+Tools: Git, GitHub, Postman
+🌐 Connect with me
+LinkedIn: https://linkedin.com/in/yashhtiwari
+Email: yashtiwari.devv@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__.yyashh__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yashhtiwari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashtiwari.devv@gmail.com) 
@@ -12,16 +46,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=YashTiwari0-7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YashTiwari0-7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YashTiwari0-7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YashTiwari0-7&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=YashTiwari0-7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
