@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YashTiwari0_7&label=Profile%20views&color=0e75b6&style=flat" alt="YashTiwari" />
+  <img src="https://komarev.com/ghpvc/?username=YashTiwari0_7&label=Profile%20views&color=0e75b6&style=flat" alt="YashTiwari0-7" />
 </p>
 ## 💫 About Me:
 Hi, I'm Yash Tiwari 👋<br><br>MERN Stack Developer | Full Stack Web Developer<br><br>I build scalable, real-time web applications using modern technologies like React, Node.js, Express, and MongoDB.<br><br>
